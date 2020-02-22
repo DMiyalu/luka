@@ -1,0 +1,15 @@
+.entete {
+    display: grid;
+    grid-template-columns: 6fr 1fr;
+    background-color: rgba(238, 238, 238, 0.747);
+    padding: 10px;
+}
+
+.enfant {
+    border: 2px solid red;
+}
+
+.social-medias {
+    padding: 10px;
+    word-spacing: 30px;
+}
